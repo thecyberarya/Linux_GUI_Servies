@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Docker
+Comment=start and stop docker servies
+Terminal=false
+StartupNotify=true
+Exec=/bin/python3 /home/dhirajarya/Softwares/docker/gui.py
+Icon=/home/dhirajarya/Softwares/docker/icon.ico
+Keywords=docker;
+

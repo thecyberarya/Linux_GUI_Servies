@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Nessus
+Comment=start and stop Nessus servies
+Terminal=false
+StartupNotify=true
+Exec=/bin/python3 /home/dhirajarya/Softwares/nessus/gui.py
+Icon=/home/dhirajarya/Softwares/nessus/icon.ico
+Keywords=nessus;

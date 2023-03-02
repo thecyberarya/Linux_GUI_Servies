@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Acunetix
+Comment=start and stop Acunetix servies
+Terminal=false
+StartupNotify=true
+Exec=/bin/python3 /home/dhirajarya/Softwares/acunetix/gui.py
+Icon=/home/dhirajarya/Softwares/acunetix/icon.ico
+Keywords=acunetix;
